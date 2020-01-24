@@ -33,7 +33,7 @@ The below process have been implemented to perform the challenge.
 
 ### Comparison
 
-![Comparison.jpg](Comparison_SVM_vs_RF.jpg)
+![Comparison.jpg](Comparison_SVM_vs_RF.jpeg)
 
 ### Conclusion
 
