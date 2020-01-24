@@ -33,6 +33,8 @@ The below process have been implemented to perform the challenge.
 
 ### Comparison
 
+![Comparison.jpg](Comparison_SVM_vs_RF.JPG)
+
 ### Conclusion
 
-After comparing both the models, Random Forest is better than Support Vector Machine.
+After comparing the scores in both the models, Random Forest is better than Support Vector Machine.
