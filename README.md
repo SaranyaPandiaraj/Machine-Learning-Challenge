@@ -11,7 +11,7 @@ The below process have been implemented to perform the challenge.
 
 1. [Preprocess the raw data](#Preprocessing)
 2. [Tune the models](#Tune-Model-Parameters)
-3. [Compare two or more models](#Evaluate-Model-Performance)
+3. [Compare two or more models](#Models-Used-for-Comparison)
 
 ### Preprocess the Data
 
